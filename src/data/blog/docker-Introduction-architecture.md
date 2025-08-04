@@ -29,7 +29,7 @@ With Docker:
 ---
 
 ## 🖥️ Virtual Machines vs Containers
-![VMs vs Containers Comparison](/images/vms-vs-containers.png)
+![VMs vs Containers Comparison](/assets/images/vms-vs-containers.png)
 *Figure: Difference between VMs and Containers*
 
 
@@ -67,7 +67,7 @@ Each container includes:
 ---
 
 ## ⚙️ Docker Architecture
-![Docker Architecture](/images/docker-architecture.png)
+![Docker Architecture](../../assets/images/docker-architecture.png.png/)
 *Figure: Docker’s Client-Server Architecture*
 
 Docker follows a **client-server architecture** with the following components:
