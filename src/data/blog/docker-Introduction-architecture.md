@@ -1,8 +1,18 @@
 ---
-title: "Docker Introduction & Architecture"
-description: "Learn the basics of Docker, its architecture, and the difference between containers and virtual machines."
-pubDate: "July 31 2025"
-heroImage: "/blog-placeholder-3.jpg"
+author: Rao Shahzaib
+pubDatetime: 2025-07-31T10:00:00Z
+modDatetime: 2025-07-31T10:00:00Z
+title: Docker Introduction and Architecture
+slug: docker-introduction-and-architecture
+featured: true
+draft: false
+tags:
+  - docker
+  - containers
+  - architecture
+  - virtualization
+description: |
+  Understand the core concepts of Docker, including the difference between Virtual Machines and Containers, and explore Docker’s client-server architecture with illustrations.
 ---
 
 ## 🐳 Introduction to Docker
