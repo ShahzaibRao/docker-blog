@@ -67,7 +67,7 @@ Each container includes:
 ---
 
 ## ⚙️ Docker Architecture
-![Docker Architecture](../../assets/images/docker-architecture.png/)
+![Docker Architecture](../../assets/images/docker-architecture.png)
 *Figure: Docker’s Client-Server Architecture*
 
 Docker follows a **client-server architecture** with the following components:
