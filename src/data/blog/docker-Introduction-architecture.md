@@ -29,7 +29,7 @@ With Docker:
 ---
 
 ## 🖥️ Virtual Machines vs Containers
-![VMs vs Containers Comparison](../../assets//images/vms-vs-containers.png)
+![VMs vs Containers Comparison](../../assets/images/vms-vs-containers.png)
 *Figure: Difference between VMs and Containers*
 
 
