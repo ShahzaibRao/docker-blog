@@ -1,6 +1,6 @@
 ---
 author: Rao Shahzaib
-pubDatetime: 2026-10-07T10:00:00Z
+pubDatetime: 2026-09-22T00:00:00Z
 title: "Week 12: Resilience Patterns — Circuit Breakers"
 description: "Learn retries, timeouts, bulkheads and the circuit breaker pattern (closed/open/half-open), then build a two-container lab with a flaky service and a Python client that fails gracefully."
 tags: ["docker", "docker-360", "resilience", "microservices"]
