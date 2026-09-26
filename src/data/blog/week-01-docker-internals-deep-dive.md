@@ -1,6 +1,6 @@
 ---
 author: Rao Shahzaib
-pubDatetime: 2026-09-26T10:00:00Z
+pubDatetime: 2026-09-11T00:00:00Z
 title: "Week 1: Docker Internals Deep Dive"
 description: "Understand what Docker really is under the hood — image layers, OverlayFS, Linux namespaces, cgroups, and BuildKit — with hands-on labs."
 tags: ["docker", "docker-360", "internals", "buildkit"]
