@@ -1,6 +1,6 @@
 ---
 author: Rao Shahzaib
-pubDatetime: 2026-09-28T10:00:00Z
+pubDatetime: 2026-09-13T00:00:00Z
 title: "Week 3: Persistent Storage Mastery"
 description: "Master Docker storage — volumes vs bind mounts vs tmpfs decision guide, volume backup & restore lab, and a production-style PostgreSQL setup."
 tags: ["docker", "docker-360", "volumes", "postgres"]
