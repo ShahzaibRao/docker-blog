@@ -1,6 +1,6 @@
 ---
 author: Rao Shahzaib
-pubDatetime: 2026-09-27T10:00:00Z
+pubDatetime: 2026-09-12T00:00:00Z
 title: "Week 2: Advanced Docker Networking"
 description: "Master Docker network drivers — bridge, host, none, overlay, macvlan — embedded DNS, iptables security, and a Traefik reverse-proxy lab."
 tags: ["docker", "docker-360", "networking", "traefik"]
