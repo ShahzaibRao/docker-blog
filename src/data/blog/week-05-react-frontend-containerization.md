@@ -1,6 +1,6 @@
 ---
 author: Rao Shahzaib
-pubDatetime: 2026-09-30T10:00:00Z
+pubDatetime: 2026-09-15T00:00:00Z
 title: "Week 5: Containerizing a React Frontend"
 description: "Ship a React app in a tiny nginx container with multi-stage Docker builds — node build stage, .dockerignore, build args for API URLs, and SPA routing fallback, all in one hands-on lab."
 tags: ["docker", "docker-360", "react", "nginx"]
