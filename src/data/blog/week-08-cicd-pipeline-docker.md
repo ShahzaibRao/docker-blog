@@ -1,6 +1,6 @@
 ---
 author: Rao Shahzaib
-pubDatetime: 2026-10-03T10:00:00Z
+pubDatetime: 2026-09-18T00:00:00Z
 title: "Week 8: CI/CD Pipeline for Docker Apps"
 description: "Build a complete GitHub Actions CI/CD pipeline for Docker: lint with Hadolint, build, Trivy security scan, push to GHCR with smart tagging, and deploy via Compose."
 tags: ["docker", "docker-360", "cicd", "github-actions"]
