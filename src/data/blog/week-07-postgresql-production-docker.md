@@ -1,6 +1,6 @@
 ---
 author: Rao Shahzaib
-pubDatetime: 2026-10-02T10:00:00Z
+pubDatetime: 2026-09-17T00:00:00Z
 title: "Week 7: PostgreSQL in Production with Docker"
 description: "Run PostgreSQL like a pro in Docker: official image config, init scripts, named volumes for data, pg_dump backup and restore drills, and app connection patterns."
 tags: ["docker", "docker-360", "postgres", "database"]
