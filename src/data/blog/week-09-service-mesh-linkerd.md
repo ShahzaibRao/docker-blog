@@ -1,6 +1,6 @@
 ---
 author: Rao Shahzaib
-pubDatetime: 2026-10-04T10:00:00Z
+pubDatetime: 2026-09-19T00:00:00Z
 title: "Week 9: Service Mesh with Linkerd"
 description: "What is a service mesh? Learn the sidecar pattern, mTLS and observability, then install Linkerd on a k3d (k3s-in-Docker) cluster with an emojivoto demo and a traffic-splitting lab."
 tags: ["docker", "docker-360", "service-mesh", "linkerd"]
