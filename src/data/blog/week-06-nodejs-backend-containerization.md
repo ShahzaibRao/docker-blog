@@ -1,6 +1,6 @@
 ---
 author: Rao Shahzaib
-pubDatetime: 2026-10-01T10:00:00Z
+pubDatetime: 2026-09-16T00:00:00Z
 title: "Week 6: Containerizing a Node.js Backend"
 description: "Production-grade Node.js Docker images: slim base, npm ci, non-root user, graceful SIGTERM shutdown, /health endpoint, and a full Express hands-on lab."
 tags: ["docker", "docker-360", "nodejs", "production"]
