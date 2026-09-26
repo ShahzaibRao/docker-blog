@@ -1,6 +1,6 @@
 ---
 author: Rao Shahzaib
-pubDatetime: 2026-10-05T10:00:00Z
+pubDatetime: 2026-09-20T00:00:00Z
 title: "Week 10: API Gateway with Kong"
 description: "Learn API gateway concepts — routing, authentication and rate limiting at the edge — then run Kong in Docker with declarative DB-less config and test a rate-limiting lab with curl."
 tags: ["docker", "docker-360", "kong", "api-gateway"]
