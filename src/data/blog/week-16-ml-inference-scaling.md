@@ -1,6 +1,6 @@
 ---
 author: Rao Shahzaib
-pubDatetime: 2026-10-11T10:00:00Z
+pubDatetime: 2026-09-26T00:00:00Z
 title: "Week 16: Batch Jobs & Scaling Inference"
 description: "Run one-shot batch containers, serve an ML model behind an API, scale it with replicas and a load balancer, and wrap up the complete 16-week Docker journey."
 tags: ["docker", "docker-360", "ml", "scaling"]
