@@ -1,6 +1,6 @@
 ---
 author: Rao Shahzaib
-pubDatetime: 2026-09-29T10:00:00Z
+pubDatetime: 2026-09-14T00:00:00Z
 title: "Week 4: Orchestration Fundamentals"
 description: "Step into orchestration — Docker Swarm vs Kubernetes compared, swarm cluster lab, replicated services, rolling updates, and self-healing."
 tags: ["docker", "docker-360", "swarm", "orchestration"]
