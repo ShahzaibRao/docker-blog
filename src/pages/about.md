@@ -3,35 +3,32 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-AstroPaper is a minimal, accessible and SEO-friendly blog theme built with [Astro](https://astro.build/) and [Tailwind CSS](https://tailwindcss.com/).
+## Docker 360 🐳
 
-![Astro Paper](public/astropaper-og.jpg)
+Assalamualaikum! I'm **Rao Shahzaib** — a DevOps Engineer who loves containers and teaching tech in **simple Roman Urdu**.
 
-AstroPaper provides a solid foundation for blogs, or even portfolios\_ with full markdown support, built-in dark mode, and a clean layout that works out-of-the-box.
+**Docker 360** is my complete Docker learning hub. Here you'll find hands-on Docker tutorials explained step by step — from your very first `docker run` to Dockerfiles, Compose, volumes, networking and beyond. Every guide is written from practical experience, with real labs you can follow along.
 
-The blog posts in this theme also serve as guides, docs or example articles\_ making AstroPaper a flexible starting point for your next content-driven site.
+### What you'll learn here
 
-## Features
+- 🐳 Docker basics — containers vs VMs, architecture, Docker CLI
+- 📦 Images & Dockerfiles — build your own images the right way
+- 🗂️ Volumes & data — persist data like a pro
+- 🌐 Container networking — how containers talk to each other
+- 🧩 Docker Compose — multi-container apps made simple
+- 🚀 Real-world labs — practical exercises in Roman Urdu
 
-AstroPaper comes with a set of useful features that make content publishing easy and effective:
+### My motto
 
-- SEO-friendly
-- Fast performance
-- Light & dark mode
-- Highly customizable
-- Organizable blog posts
-- Responsive & accessible
-- Static search with [PageFind](https://pagefind.app/)
-- Automatic social image generation
+> "Jo samjhay wohi sikhtay hain." — Those who understand, learn better.
 
-and so much more.
+That's why every tutorial here breaks complex topics into plain, relatable explanations.
 
-## Show your support
+### Connect with me
 
-If you like [AstroPaper](https://github.com/satnaing/astro-paper), consider giving it a star ⭐️.
+- 🌐 Blog: [blog.raoshahzaib.site](https://blog.raoshahzaib.site)
+- 💻 GitHub: [ShahzaibRao](https://github.com/ShahzaibRao)
+- 🔗 LinkedIn: [rao-shahzaib](https://linkedin.com/in/rao-shahzaib)
+- 📧 Email: [contact@raoshahzaib.site](mailto:contact@raoshahzaib.site)
 
-Found a bug 🐛 or have an improvement ✨ in mind? Feel free to open an [issue](https://github.com/satnaing/astro-paper/issues), submit a [pull request](https://github.com/satnaing/astro-paper/pulls) or start a [discussion](https://github.com/satnaing/astro-paper/discussions).
-
-If you find this theme helpful, you can also [sponsor me on GitHub](https://github.com/sponsors/satnaing) or [buy me a coffee](https://buymeacoffee.com/satnaing) to show your support — every penny counts.
-
-Kyay zuu! 🙏🏼
+Shukriya for visiting! 😊
