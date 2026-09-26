@@ -1,6 +1,6 @@
 ---
 author: Rao Shahzaib
-pubDatetime: 2026-10-06T10:00:00Z
+pubDatetime: 2026-09-21T00:00:00Z
 title: "Week 11: Distributed Tracing with Jaeger"
 description: "Learn distributed tracing concepts — traces, spans and context propagation — then run Jaeger all-in-one in Docker, trace the HotROD demo app end-to-end and read a trace waterfall."
 tags: ["docker", "docker-360", "observability", "jaeger"]
