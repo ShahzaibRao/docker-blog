@@ -1,6 +1,6 @@
 ---
 author: Rao Shahzaib
-pubDatetime: 2026-10-08T10:00:00Z
+pubDatetime: 2026-09-23T00:00:00Z
 title: "Week 13: Docker-in-Docker Workflows"
 description: "Docker-in-Docker vs Docker socket mounting: pros, cons, security trade-offs, a docker:dind compose lab, and CI pipelines that build images inside containers."
 tags: ["docker", "docker-360", "dind", "ci"]
