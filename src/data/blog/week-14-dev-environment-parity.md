@@ -1,6 +1,6 @@
 ---
 author: Rao Shahzaib
-pubDatetime: 2026-10-09T10:00:00Z
+pubDatetime: 2026-09-24T00:00:00Z
 title: "Week 14: Team Dev Environments & Parity"
 description: "Give every developer the same stack: Docker Compose override files for dev vs prod, live code reload with volumes, seeded databases, and a team workflow that just works."
 tags: ["docker", "docker-360", "dev-environment", "compose"]
