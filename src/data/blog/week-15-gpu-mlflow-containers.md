@@ -1,6 +1,6 @@
 ---
 author: Rao Shahzaib
-pubDatetime: 2026-10-10T10:00:00Z
+pubDatetime: 2026-09-25T00:00:00Z
 title: "Week 15: GPU Containers & MLflow"
 description: "Run GPU workloads in Docker with the NVIDIA Container Toolkit, test CUDA inside containers, and track ML experiments with an MLflow server on Compose."
 tags: ["docker", "docker-360", "gpu", "mlflow"]
